@@ -1,16 +1,24 @@
-### Hi there 👋
+- 🔭 I mainly know/code/work with: 
+  *   Python
+  *   C
+  *   C++
+  *   Golang
+  *   PHP
+- 💻 Languages that I don't code in very much:
+  *   SQL
+  *   Javascript
+  *   x86/x86_64 Assembly
+- 📚 Currently Learning:
+  *   PE
+  *   Windows API
+  *   Reverse Engineering
+  *   x86/x86_64 Assembly
+- 📱 Interests:
+  *   Programming
+  *   Webapp Hacking
+  *   Malware Analysis
+  *   Reverse Engineering
+  *   Exploit Development
+  *   Malware Development
 
-<!--
-**teasec/teasec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ teasec
